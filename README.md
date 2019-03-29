@@ -12,7 +12,7 @@ __This is what we will be working towards:__
 
 ## Merging Git Branches
 
-On the `master` branch, there is a placeholder profile in place. The index page on that branch looks like this:
+On the `master` branch there is a placeholder profile in place. The index page on that branch looks like this:
 
 ![avatar-placeholder-master-branch](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/git-merge-conflicts/master-branch)
 
